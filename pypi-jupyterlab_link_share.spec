@@ -5,7 +5,7 @@
 #
 Name     : pypi-jupyterlab_link_share
 Version  : 0.3.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/5f/63/037eef5db99816206935fe491e6cd8b8a72f6933895ec8c1af44eda8eab9/jupyterlab-link-share-0.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5f/63/037eef5db99816206935fe491e6cd8b8a72f6933895ec8c1af44eda8eab9/jupyterlab-link-share-0.3.0.tar.gz
 Summary  : JupyterLab Extension to share the URL to a running Jupyter Server
